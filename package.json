@@ -1,0 +1,26 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "\"# backend\" \r \"# example\"",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-validator": "^6.14.0",
+    "mongoose": "^6.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khaleedabuhawwas92/siniviwe-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khaleedabuhawwas92/siniviwe-backend/issues"
+  },
+  "homepage": "https://github.com/Khaleedabuhawwas92/siniviwe-backend#readme"
+}
